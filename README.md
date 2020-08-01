@@ -2,6 +2,7 @@
 Congratulations! You've made it to your first assignment. 
 In this assignment, we will be growing our skills at working together as a team. The best way to work on a team is through version control.
 
+--- 
 
 ### Assignment Details
 - Make sure you've got [git](https://docs.github.com/en/github/getting-started-with-github/set-up-git) set up on your computer. You can use git through the command line or through [GitHub Desktop](https://docs.github.com/en/desktop/getting-started-with-github-desktop)
