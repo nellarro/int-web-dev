@@ -1,0 +1,16 @@
+name: First Homework
+
+on: push
+
+jobs:
+  my-job:
+    name: First Homework
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to foo-bar.surge.sh
+        uses: dswistowski/surge-sh-action@v1
+        with:
+          domain: 'bot-webdev.surge.sh'
+          project: '.'
+          login: ${{ secrets.SURGE_USERNAME }}
+          token: ${{ secrets.SURGE_TOKEN }}
