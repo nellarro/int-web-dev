@@ -20,6 +20,8 @@ Make sure to include at least:
 - 1 image
 - 1 link to go back to the home page
 
+Your student profile page should link to the main `index.html` page so that when your name is clicked, you are re-directed to your student profile page. 
+
 Bonus:
 Give us a little bit of style!
 
